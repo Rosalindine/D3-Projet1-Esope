@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Eagle+Lake');
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+@import url('https://fonts.googleapis.com/css?family=Parisienne');
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple|Neucha');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Karma|Mali|PT+Serif+Caption');
+
+
+section
+
+body {font-family: 'Roboto', sans-serif;}
+body {margin-left: 20px}
+body {margin-right: 20px}
+
+h1 {margin-top: 70px}
+h1 {margin-left: 20px}
+h1 {margin-right: 20px}
+h1 {color: rgb(100, 100, 100);}
+
+h2 {font-size: 150px}
+h2 {margin-left: 50px}
+h2 {margin-right: 50px}
+h2 {margin-top: 50px}
+h2 {color: rgb(250, 245, 230);}
+h2 {font-family: 'Eagle+Lake'}
+
+p {text-indent: 1em;}
+p {margin-left: 30px}
+p {margin-right: 30px}
+p {text-align: justify;text-justify: inter-word;}
+p {color: rgb(0, 0, 0);}
+
+li {font-family:"Roboto";
+font-size: 15px; font-family: 'Raleway'; line-height: 25px; color: rgb(250, 250, 250)}
+
+.first-letter {
+font-size: 35px;
+line-height: 35px;
+  }
+.Esope {background: url('Image/esope.jpg') top center no-repeat;
+background-size: cover;
+min-height: 66vh}
+.flotte {float:left ; margin-right: 30px; }
+
+#leratdeschampsetleratdesvilles
+h1 {font-size: 40px;font-family: 'Permanent Marker'; color: rgb(240, 235, 210)}
+#leratdeschampsetleratdesvilles
+p {font-family: 'Alegreya';}
+
+#Lacigaleetlesfourmies
+h1 {font-size: 40px; font-family: 'Raleway'; color: #99CC99 }
+#Lacigaleetlesfourmies
+p {font-family: 'Parisienne'; font-size: 20px}
+
+#Lelaboureuretsesenfants
+h1 {font-size: 40px; font-family: 'Homemade Apple'; color: #FFCCCC}
+#Lelaboureuretsesenfants
+p {font-family: 'Neucha'}
+
+#Labeletteetlespoules
+h1 {font-size: 40px; font-family: 'PT Serif Caption';color: #99CCCC }
+#Labeletteetlespoules
+p {font-family: 'Karma'}
+
+#Lerenardetlesraisins
+h1 {font-size: 40px; font-family: 'Mali'; color:#FFCCFF }
+#Lerenardetlesraisins
+p {font-family: 'Dancing Script'; font-size: 20px}
